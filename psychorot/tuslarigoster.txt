@@ -1,0 +1,22 @@
+echo |Num0 = CloseMOD
+echo |Num1 = PsychorotMod
+echo |Num2 = GoresMod
+echo |Num3 = DummyDeepFlyMod
+echo |Num4 = DummyFlyMod
+echo |Num5 = FNGmod(It isn't working)
+echo |Num8 = Show FPS ON
+echo |Num9 = Show FPS OFF
+echo |9 = harsh move
+echo |0 = smooth move
+
+
+
+echo |, = Dummy connect
+echo |. = Dummy disconnect
+echo |l = lock team
+echo |Right = zoom -
+echo |Left = zoom +
+echo |Down = zoom default
+echo |g = Mini Cross
+echo |[ = fat skin
+echo |] = Normal Skin

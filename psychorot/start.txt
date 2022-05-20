@@ -1,0 +1,142 @@
+#----SHOW-MODES
+
+bind f11 "exec psychorot/tuslarigoster.txt"
+
+
+
+
+#-you can change the Keys as you like
+
+====================================================================================
+[AYARLAR]
+---------------------------------------------------------------------------------------
+###--RESET
+
+bind kp_0 "exec psychorot/psychomod/reset/modkapa.cfg; echo | Bind Mode: Default"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-PSYCHOROT
+
+bind kp_1 "exec psychorot/psychomod/psychoorotmod/psychorot.cfg; echo | Bind Mode: PsychoRot"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-GORES
+
+bind kp_2 "exec psychorot/psychomod/goresmod/gores.cfg; echo | Bind Mode: Gores"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-DUMMYDEEP
+
+bind kp_3 "exec psychorot/psychomod/dummydeepmod/dummydeepfly.cfg; echo | Bind Mode: DummyDeepFly"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-DUMMYFLY
+
+bind kp_4 "exec psychorot/psychomod/dummyflymod/dummyfly.cfg; echo | Bind Mode: DummyFly"
+
+
+---------------------------------------------------------------------------------------
+
+###--MOD-FNG
+
+bind kp_5 "exec psychorot/psychomod/fngmod/fng.cfg; echo | Bind Mode: FNG (It isn't working)"
+
+
+---------------------------------------------------------------------------------------
+
+###--FPS
+
+#AC
+bind kp_8 "exec psychorot/psychomod/fps/goster.cfg; echo | Show FPS : ON"
+
+#KAPA
+bind kp_9 "exec psychorot/psychomod/fps/kapat.cfg; echo | Show FPS : OFF"
+
+
+---------------------------------------------------------------------------------------
+##--Player movements
+
+#HARD
+bind 9 "exec psychorot/psychomod/hareket/sert.cfg; echo | Player movements : Hard"
+
+#SMOOTH
+
+bind 0 "exec psychorot/psychomod/hareket/yumusak.cfg; echo | Player movements: Smooth"
+
+
+
+=========================================================================================
+
+#=>EXTRA
+
+
+##--JOİN DUMMY
+
+bind comma "exec psychorot/psychomod/extra/dummybagla.cfg"
+
+---------------------------------------------------------------------------------------
+##--DİSCONNECT DUMMY
+
+bind period "exec psychorot/psychomod/extra/dummycikar.cfg"
+
+---------------------------------------------------------------------------------------
+##--TAKIMI-KITLE
+
+bind l "exec psychorot/psychomod/extra/takımıkitle.cfg"
+
+
+---------------------------------------------------------------------------------------
+##--ZOOM
+
+#ZOOM++
+bind right "exec psychorot/psychomod/extra/zoomarti.cfg"
+
+#ZOOM--
+bind left "exec psychorot/psychomod/extra/zoomeksi.cfg"
+
+#DEFAULT
+bind down "exec psychorot/psychomod/extra/zoom.cfg"
+
+
+---------------------------------------------------------------------------------------
+###--PERFECT-BOMB
+
+bind g "exec psychorot/psychomod/extra/s.cfg"
+
+---------------------------------------------------------------------------------------
+###--FAT-SKIN
+
+#ON
+bind leftbracket "exec psychorot/psychomod/extra/sisko.cfg"
+
+#OFF
+bind rightbracket "exec psychorot/psychomod/extra/siskokapa.cfg"
+
+
+---------------------------------------------------------------------------------------
+
+=======================================================================================
+
+[DON'T TOUCH]
+
+exec psychorot/psychomod/psymodgiris/giris.cfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
