@@ -20,6 +20,5 @@
 <br />
 
 ## Discord
-[![Download zip](https://www.freepnglogos.com/uploads/discord-logo-png/meltdown-esports-bars-19.png "Discord" )]([https://github.com/Psychorot/Rbx.gg-Faucet-Bot/archive/refs/heads/main.zip](https://discord.gg/UHgBk5r66T))
-
+[![Discord](https://www.freepnglogos.com/uploads/discord-logo-png/meltdown-esports-bars-19.png "Discord")](https://discord.gg/UHgBk5r66T)
 
