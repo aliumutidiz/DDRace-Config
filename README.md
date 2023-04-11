@@ -13,7 +13,7 @@
 <br />
 
 # Download
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Psychorot/DDRace-Config/archive/refs/heads/main.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/aliumutidiz/DDRace-Config/archive/refs/heads/main.zip)
 <br />
 <br />
 <br />
